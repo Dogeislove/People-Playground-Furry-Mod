@@ -1,0 +1,19 @@
+{
+  "Name": "Furries",
+  "Author": "Prussian Doge",
+  "Description": "Adds a handful of furries you can mess around with.",
+  "ModVersion": "1.1",
+  "GameVersion": "1.12+",
+  "ThumbnailPath": "Thumbnail.png",
+  "EntryPoint": "furrymod.Mod",
+  "Tags": [
+    "fun",
+    "realistic"
+  ],
+  "Scripts": [
+    "script.cs"
+  ],
+  "Active": false,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "2377673317"
+}
